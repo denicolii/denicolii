@@ -1,4 +1,4 @@
-### Olá! Eu sou a Ana Denicoli
+### Olá! Eu sou a Denicoli
 
 - Atualmente trabalho como Freelancer.
 - Estudando fullstak e cyber security.
