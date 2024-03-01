@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Denicoli
 
-- Atualmente trabalho como Freelancer.
-- Estudando fullstak e cyber security.
-- 📫 Contate-me: denicolitktk@gmail.com
+- Atualmente estudo ciÊncias da computação.
+- Desenvolvimento web.
+- 📫 Contate-me: ana.denicoli41@gmail.com
 - Instagram: @denicolii
