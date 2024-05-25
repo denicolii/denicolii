@@ -10,11 +10,9 @@ Tenho Curso técnico em analise e desenvolvimento de sistemas e estou cursando E
 
 
 ## Projetos Destacados
-- [Projeto 1]([link](https://inventario-digital.netlify.app)): Breve descrição.
- [Projeto 2]([link](https://inventario-digital.netlify.app)):  Projeto CRUD que fornece utilidades como ter o controle de gastos, funcionários e estoque de uma instituição.
-- Tecnologias: HTML, CSS e JavaScript.
+- [Projeto 1](https://detechdigital.netlify.app): Site da minha empresa de desenvolvimento de websites. web design e marketing para empresas.
+- [Projeto 2](https://inventario-digital.netlify.app): Sistema para controle de estoque, funcionarios e despesas para empresas
 
-- 
 ## Contato
-- Email: [seuemail@exemplo.com](mailto:seuemail@exemplo.com)
-- LinkedIn: [Seu LinkedIn](https://linkedin.com/in/seulinkedin)
+- Email: [ana.denicoli41@gmail.com](mailto:ana.denicoli41@gmail.com)
+- LinkedIn: [Ana Denicolli](https://www.linkedin.com/in/ana-denicolli-abb31b282/)
