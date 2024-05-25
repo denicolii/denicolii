@@ -8,12 +8,13 @@ Tenho Curso técnico em analise e desenvolvimento de sistemas e estou cursando E
 - **Front-end:** HTML, CSS, JavaScript, React
 - Aprimorando minhas tecnologias em Back-End
 
+
 ## Projetos Destacados
-- [Projeto 2](link): Breve descrição.
-- [Projeto 2]([link](https://inventario-digital.netlify.app)): Projeto CRUD que fornece utilidades como ter o controle de gastos, funcionários e estoque de uma instituição.
+- [Projeto 1](link): Breve descrição.
+ [Projeto 2]([link](https://inventario-digital.netlify.app)):  Projeto CRUD que fornece utilidades como ter o controle de gastos, funcionários e estoque de uma instituição.
 - Tecnologias: HTML, CSS e JavaScript.
 
-
+- 
 ## Contato
-- Email: [](ana.denicoli41@gmail.com)
-- LinkedIn: [](https://www.linkedin.com/in/ana-denicolli-abb31b282/)
+- Email: [seuemail@exemplo.com](mailto:seuemail@exemplo.com)
+- LinkedIn: [Seu LinkedIn](https://linkedin.com/in/seulinkedin)
