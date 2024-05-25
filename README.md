@@ -10,8 +10,8 @@ Tenho Curso técnico em analise e desenvolvimento de sistemas e estou cursando E
 
 
 ## Projetos Destacados
-- [Projeto 1](https://detechdigital.netlify.app): Site da minha empresa de desenvolvimento de websites. web design e marketing para empresas.
-- [Projeto 2](https://inventario-digital.netlify.app): Sistema para controle de estoque, funcionarios e despesas para empresas
+- [DeTech](https://detechdigital.netlify.app): Site da minha empresa de desenvolvimento de websites. web design e marketing para empresas.
+- [Controle de estoque](https://inventario-digital.netlify.app): Sistema para controle de estoque, funcionarios e despesas para empresas
 
 ## Contato
 - Email: [ana.denicoli41@gmail.com](mailto:ana.denicoli41@gmail.com)
