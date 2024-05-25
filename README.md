@@ -10,7 +10,7 @@ Tenho Curso técnico em analise e desenvolvimento de sistemas e estou cursando E
 
 
 ## Projetos Destacados
-- [Projeto 1](link): Breve descrição.
+- [Projeto 1]([link](https://inventario-digital.netlify.app)): Breve descrição.
  [Projeto 2]([link](https://inventario-digital.netlify.app)):  Projeto CRUD que fornece utilidades como ter o controle de gastos, funcionários e estoque de uma instituição.
 - Tecnologias: HTML, CSS e JavaScript.
 
