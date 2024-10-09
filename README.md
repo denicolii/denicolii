@@ -1,8 +1,10 @@
 # Olá, eu sou Ana Denicolli 👋
 
 ## Sobre Mim
-Sou desenvolvedora full-stack com paixão por criar soluções inovadoras e eficientes. Tenho minha própria empresa com foco em Desenvolvimento Web, Web design e Marketing Digital e experiência em várias tecnologias e estou sempre em busca de aprender algo novo.
-Tenho Curso técnico em analise e desenvolvimento de sistemas e estou cursando Engenharia de Software.
+Tenho 19 anos e sou formada no técnico em Desenvolvimento de Sistemas. Atualmente, faço faculdade de Engenharia de Software e estou sempre em busca de aprender mais. Tenho experiência com programação, desenvolvimento de sistemas e metodologias ágeis, graças ao curso técnico.
+
+Estou em busca de uma oportunidade para colocar em prática o que já aprendi e continuar crescendo na área de tecnologia. Sou dedicada, curiosa e pronta para contribuir com novas ideias e soluções para os desafios da empresa.
+
 
 ## Tecnologias
 - **Front-end:** HTML, CSS, JavaScript, React
