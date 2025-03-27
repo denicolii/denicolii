@@ -7,7 +7,7 @@ Estou em busca de uma oportunidade para colocar em prática o que já aprendi e 
 
 
 ## Tecnologias
-- **Front-end:** HTML, CSS, JavaScript, React
+- **Front-end:** HTML, CSS e JavaScript
 - Aprimorando minhas tecnologias em Back-End com Python
 
 
